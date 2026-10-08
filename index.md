@@ -10,4 +10,4 @@ Small games by an independent hobbyist developer.
 
 - [Privacy Policy](dunjoku/privacy-policy)
 
-Contact: [defraggedzebra.app@gmail.com](mailto:defraggedzebra.app@gmail.com)
+Contact: [defraggedzebra.apps@gmail.com](mailto:defraggedzebra.apps@gmail.com)

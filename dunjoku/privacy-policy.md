@@ -39,4 +39,4 @@ If a future version of Dunjoku changes how data is handled, for example by addin
 
 ## Contact
 
-If you have any questions about this policy, contact us at: [defraggedzebra.app@gmail.com](mailto:defraggedzebra.app@gmail.com)
+If you have any questions about this policy, contact us at: [defraggedzebra.apps@gmail.com](mailto:defraggedzebra.apps@gmail.com)
